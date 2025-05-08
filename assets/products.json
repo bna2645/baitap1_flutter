@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://example.com/img/headphones.png",
+    "description": "Chất lượng cao, chống ồn chủ động."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 129.99,
+    "image": "https://example.com/img/watch.png",
+    "description": "Theo dõi sức khỏe, thông báo cuộc gọi."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "image": "https://example.com/img/speaker.png",
+    "description": "Âm thanh mạnh mẽ, dễ dàng mang theo."
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "image": "https://example.com/img/tracker.png",
+    "description": "Theo dõi bước chân, nhịp tim."
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "image": "https://example.com/img/mouse.png",
+    "description": "Cảm biến chính xác, đèn LED RGB."
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://example.com/img/keyboard.png",
+    "description": "Phím cơ, phản hồi nhanh, thiết kế đẹp."
+  },
+  {
+    "id": 7,
+    "name": "USB-C Hub",
+    "price": 24.99,
+    "image": "https://example.com/img/hub.png",
+    "description": "Hỗ trợ nhiều cổng, tiện ích cho laptop."
+  },
+  {
+    "id": 8,
+    "name": "External SSD",
+    "price": 99.99,
+    "image": "https://example.com/img/ssd.png",
+    "description": "Tốc độ cao, dung lượng lớn."
+  },
+  {
+    "id": 9,
+    "name": "Portable Charger",
+    "price": 34.99,
+    "image": "https://example.com/img/powerbank.png",
+    "description": "Dung lượng 10000mAh, hỗ trợ sạc nhanh."
+  },
+  {
+    "id": 10,
+    "name": "Noise Cancelling Earbuds",
+    "price": 69.99,
+    "image": "https://example.com/img/earbuds.png",
+    "description": "Nhỏ gọn, âm thanh rõ ràng."
+  },
+  {
+    "id": 11,
+    "name": "Smartphone Gimbal",
+    "price": 109.99,
+    "image": "https://example.com/img/gimbal.png",
+    "description": "Ổn định video khi quay trên điện thoại."
+  },
+  {
+    "id": 12,
+    "name": "LED Desk Lamp",
+    "price": 19.99,
+    "image": "https://example.com/img/lamp.png",
+    "description": "Đèn học chống cận, nhiều chế độ sáng."
+  },
+  {
+    "id": 13,
+    "name": "Laptop Stand",
+    "price": 27.99,
+    "image": "https://example.com/img/stand.png",
+    "description": "Giúp nâng laptop, tốt cho tư thế ngồi."
+  },
+  {
+    "id": 14,
+    "name": "Webcam Full HD",
+    "price": 54.99,
+    "image": "https://example.com/img/webcam.png",
+    "description": "Hình ảnh sắc nét, mic tích hợp."
+  },
+  {
+    "id": 15,
+    "name": "Wireless Charger",
+    "price": 22.99,
+    "image": "https://example.com/img/charger.png",
+    "description": "Sạc nhanh không dây cho điện thoại."
+  },
+  {
+    "id": 16,
+    "name": "Mini Projector",
+    "price": 159.99,
+    "image": "https://example.com/img/projector.png",
+    "description": "Chiếu phim tại nhà, kích thước nhỏ gọn."
+  },
+  {
+    "id": 17,
+    "name": "Tablet Stylus Pen",
+    "price": 18.99,
+    "image": "https://example.com/img/stylus.png",
+    "description": "Viết, vẽ mượt mà trên tablet."
+  },
+  {
+    "id": 18,
+    "name": "Action Camera",
+    "price": 139.99,
+    "image": "https://example.com/img/actioncam.png",
+    "description": "Quay video ngoài trời, chống nước."
+  },
+  {
+    "id": 19,
+    "name": "Wireless Router",
+    "price": 64.99,
+    "image": "https://example.com/img/router.png",
+    "description": "Tốc độ cao, vùng phủ rộng."
+  },
+  {
+    "id": 20,
+    "name": "VR Headset",
+    "price": 199.99,
+    "image": "https://example.com/img/vr.png",
+    "description": "Trải nghiệm thực tế ảo sống động."
+  }
+]
